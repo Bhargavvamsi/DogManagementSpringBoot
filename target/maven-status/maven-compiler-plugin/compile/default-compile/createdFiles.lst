@@ -1,0 +1,6 @@
+com\musulurilearn\DMS\DogsManagementSystemApplication.class
+com\musulurilearn\DMS\repository\TrainerRepository.class
+com\musulurilearn\DMS\repository\DogRepository.class
+com\musulurilearn\DMS\Models\Trainer.class
+com\musulurilearn\DMS\Controllers\DogController.class
+com\musulurilearn\DMS\Models\Dog.class
